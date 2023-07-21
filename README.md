@@ -1,3 +1,3 @@
 # achintya-ranjan.github.io
 
-Hi this is my first repository
+Hi this is my first game
